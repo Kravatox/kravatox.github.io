@@ -29,3 +29,14 @@ p {
     margin-bottom: 20px;
 }
 
+footer {
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    .mail-link {
+        color: #666;
+        text-decoration: none;
+        font-size: 14px;
+    }
+}
